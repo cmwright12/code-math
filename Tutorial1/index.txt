@@ -1,0 +1,3 @@
+The Guessing Game
+
+In this tutorial we will write a program that allows a player to guess what number the computer randomly generated.
